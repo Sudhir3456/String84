@@ -36,11 +36,6 @@ Welcome to the Student Management System, a Java-based application for efficient
   - Sorting students or dynamically adding new records (optional)
 Follow the on-screen instructions to perform operations efficiently.
 
-### Usage 📋
-- Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
-
-- Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
-
 ### Contributing 🤝
 - Contributions are welcome! Feel free to open issues and pull requests for bug fixes, enhancements, or new features.
 
