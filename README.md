@@ -1,40 +1,40 @@
-# Hotel Reservation System 🏨
-
-Welcome to the Hotel Reservation System, a Java-based application for managing hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system simplifies the reservation process, enhances guest management, and keeps your business organized.
-
+# Student Management System 🎓
+Welcome to the Student Management System, a Java-based application for efficiently managing student records. This system helps simplify student enrollment, detail management, and data organization.
 ## Features 🌟
 
-- **Reserve a Room:** Easily make new reservations by providing guest details, room numbers, and contact information.
+- **Enroll Students in Courses:** Add courses to a student’s record easily using the system.
 
-- **View Reservations:** Get an overview of all current reservations, including guest names, room numbers, contact details, and reservation dates.
+- **View Student Details:** Display student information, including name, age, student ID, and enrolled courses.
 
-- **Edit Reservation Details:** Update guest names, room numbers, and contact information for existing reservations.
+- **Search by Student ID:** Find a student quickly by their unique ID, with error handling for missing records.
 
-- **Delete Reservations:** Remove reservations that are no longer needed.
+- **Manage Multiple Students:** Use Java Collections to handle and store multiple student records.
 
+- **Advanced Features:** Sort students alphabetically or dynamically add new students via console input (optional).
+ 
 ## Getting Started 🚀
-
+ 
 ### Prerequisites
 
-- Java Development Kit (JDK)
-- MySQL Database
-- MySQL Connector/J (Java)
-
+- Java Development Kit (JDK) installed on your machine
 ### Setup
 
 1. Clone this repository to your local machine:
 
-   ```sh
-   git clone https://github.com/prabhatthakuryt/Hotel-Reservation-System.git
+    ```sh
+   git clone https://github.com/Sudhir3456/Student_Management_System
 
-2. Configure your MySQL database settings in the HotelReservationSystem.java file:
-   ```
-   private static final String DB_URL = "jdbc:mysql://localhost:3306/hotel_db";
-   private static final String DB_USER = "your_username";
-   private static final String DB_PASSWORD = "your_password";
+3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+4. Compile and run the application.
+5. Follow the console prompts to interact with the system.
 
-3. Compile and run the application
-4. Follow the on-screen menu options to use the system.
+### Usage 📋
+  ### Run the application to access the menu options, such as:
+  - Enrolling students in courses
+  - Viewing student details
+  - Searching for a student by ID
+  - Sorting students or dynamically adding new records (optional)
+Follow the on-screen instructions to perform operations efficiently.
 
 ### Usage 📋
 - Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
@@ -47,4 +47,5 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 ### Acknowledgments 🙏
 - Special thanks to all contributors and supporters of the Hotel Reservation System project.
 
-### Happy booking! 🌆
+### Happy Coding! 🎉
+
